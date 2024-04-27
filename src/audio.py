@@ -1,6 +1,7 @@
 import subprocess
 import json
 
+#Minhas contribuições
 
 class Audio():
     def convert_to_aac(self, input_file, output_file):
